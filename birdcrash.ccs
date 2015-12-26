@@ -1,0 +1,15 @@
+<Solution>
+  <PropertyGroup Name="birdcrash" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="failed.png" />
+        <Image Name="fause.png" />
+        <Image Name="rebegin.png" />
+        <Image Name="win.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

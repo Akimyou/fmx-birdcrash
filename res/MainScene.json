@@ -1,0 +1,167 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.2.3",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "win.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 172.2103,
+              "Y": 290.241
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5065,
+              "Y": 0.5004
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1.7103,
+            "RightMargin": -2.7103,
+            "TopMargin": -0.241,
+            "BottomMargin": 0.241,
+            "Tag": 3,
+            "ActionTag": -1696007722,
+            "Size": {
+              "X": 341.0,
+              "Y": 580.0
+            },
+            "Name": "win_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "rebegin.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.4653
+            },
+            "Position": {
+              "X": 108.6664,
+              "Y": 142.885
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3196,
+              "Y": 0.2464
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 78.4238,
+            "RightMargin": 196.5762,
+            "TopMargin": 366.115,
+            "BottomMargin": 142.885,
+            "Tag": 4,
+            "ActionTag": 1044646364,
+            "Size": {
+              "X": 65.0,
+              "Y": 71.0
+            },
+            "Name": "rebegin_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "fause.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6754,
+              "ScaleY": 0.3339
+            },
+            "Position": {
+              "X": 283.5341,
+              "Y": 169.2616
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8339,
+              "Y": 0.2918
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 239.6301,
+            "RightMargin": 35.3699,
+            "TopMargin": 363.4478,
+            "BottomMargin": 145.5522,
+            "Tag": 5,
+            "ActionTag": 70069453,
+            "Size": {
+              "X": 65.0,
+              "Y": 71.0
+            },
+            "Name": "fause_3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 340.0,
+          "Y": 580.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "fause.png",
+        "rebegin.png",
+        "win.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
